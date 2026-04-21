@@ -1,0 +1,27 @@
+{
+  "name": "praktikum-node",
+  "version": "1.0.0",
+  "description": "web-routing-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnabila36/praktikum_typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nnabila36/praktikum_typescript/issues"
+  },
+  "homepage": "https://github.com/nnabila36/praktikum_typescript#readme",
+  "devDependencies": {
+    "@types/node": "^20.19.39",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
